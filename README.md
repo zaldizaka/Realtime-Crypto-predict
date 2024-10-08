@@ -10,6 +10,13 @@ This repository contains scripts to fetch real-time or historical candle data of
 
 ## Requirements
 
-- Python 3.x
-- Dependencies listed in `requirements.txt`
+- Python 3.x## Requirements
+    Ensure you have the following libraries installed:
+    - numpy
+    - pandas
+    - matplotlib
+    - keras
+    - scikit-learn
+    - yfinance
+
 - Trained LSTM model (`mod.h5`) for stock price prediction.
